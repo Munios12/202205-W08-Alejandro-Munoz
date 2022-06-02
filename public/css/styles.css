@@ -47,7 +47,8 @@ img {
 .series-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: left;
+  gap: 0.5rem;
 }
 .serie {
   width: 24%;
