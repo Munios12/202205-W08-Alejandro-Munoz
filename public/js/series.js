@@ -6,8 +6,8 @@ export const series = [
     year: 1999,
     poster:
       "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
-    watched: true,
-    score: 5,
+    watched: false,
+    score: 0,
     emmies: 21,
   },
   {
@@ -28,8 +28,8 @@ export const series = [
     year: 2007,
     poster:
       "https://pics.filmaffinity.com/Mad_Men_Serie_de_TV-351490728-large.jpg",
-    watched: true,
-    score: 5,
+    watched: false,
+    score: 0,
     emmies: 116,
   },
   {
@@ -38,8 +38,8 @@ export const series = [
     creator: "Alan Ball",
     year: 2001,
     poster: "https://www.cine.com/media/series/2711.jpg",
-    watched: true,
-    score: 5,
+    watched: false,
+    score: 0,
     emmies: 53,
   },
   {
@@ -47,7 +47,28 @@ export const series = [
     name: "Atypical",
     creator: "Robia Rashid",
     year: 2017,
-    poster: "https://www.cine.com/media/series/2711.jpg",
+    poster: "https://pics.filmaffinity.com/atypical-405052091-mmed.jpg",
+    watched: false,
+    score: 0,
+    emmies: 0,
+  },
+  {
+    id: 6,
+    name: "Obi Wan Kenobi",
+    creator: "Debora Chow",
+    year: 2022,
+    poster: "https://pics.filmaffinity.com/obi_wan_kenobi-628833571-mmed.jpg",
+    watched: false,
+    score: 0,
+    emmies: 0,
+  },
+  {
+    id: 7,
+    name: "The Mandalorian",
+    creator: "Jon Favreau",
+    year: 2020,
+    poster:
+      "https://pics.filmaffinity.com/the_mandalorian_2-903747371-large.jpg",
     watched: false,
     score: 0,
     emmies: 0,
